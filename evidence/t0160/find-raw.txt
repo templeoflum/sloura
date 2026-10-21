@@ -1,0 +1,504 @@
+/Users/donovan/.claude/projects/-Users-donovan-work-sloura
+/Users/donovan/.hermes/hermes-agent/venv/lib/python3.11/site-packages/botocore/data/simspaceweaver
+/Users/donovan/Documents/Resolume Wire/Patches/Screen Weaver
+/Users/donovan/Documents/Resolume Wire/Patches/Screen Weaver/Resource/Screen Weaver.fs
+/Users/donovan/Documents/Resolume Wire/Patches/Screen Weaver/Screen Weaver.wire
+/Users/donovan/Documents/Resolume Wire/Patches_backup_wire/Screen Weaver.wire
+/Users/donovan/Downloads/your_facebook_activity-2/messages/message_requests/oscarjoeangelstevenand109others_9708159745951920
+/Users/donovan/Downloads/your_facebook_activity-3/messages/message_requests/oscarjoeangelstevenand109others_9708159745951920
+/Users/donovan/Library/Application Support/Resolume Arena/previews/Screen Weaver20264141122114435888wire_extension__extension.png
+/Users/donovan/Library/Application Support/Resolume Arena/previews/Screen Weaver2026729232615115486wire_extension__extension.png
+/Users/donovan/Library/Application Support/pipx/venvs/aider-chat/lib/python3.12/site-packages/litellm/integrations/weave
+/Users/donovan/Library/Application Support/pipx/venvs/aider-chat/lib/python3.12/site-packages/litellm/integrations/weave/__pycache__/weave_otel.cpython-312.pyc
+/Users/donovan/Library/Application Support/pipx/venvs/aider-chat/lib/python3.12/site-packages/litellm/integrations/weave/weave_otel.py
+/Users/donovan/Library/Application Support/pipx/venvs/aider-chat/lib/python3.12/site-packages/litellm/types/integrations/__pycache__/weave_otel.cpython-312.pyc
+/Users/donovan/Library/Application Support/pipx/venvs/aider-chat/lib/python3.12/site-packages/litellm/types/integrations/weave_otel.py
+/Users/donovan/Library/Caches/claude-cli-nodejs/-Users-donovan-work-sloura
+/Users/donovan/Music/Ableton/Factory Packs/Glitch and Wash/Samples/Loops/Music Loops/Synth Loops/Dying Angels Cm 120 bpm.aif
+/Users/donovan/Music/Ableton/Factory Packs/Glitch and Wash/Samples/Loops/Music Loops/Synth Loops/Dying Angels Cm 120 bpm.aif.asd
+/Users/donovan/Music/Ableton/Factory Packs/Loopmasters Mixtape/Ableton Folder Info/Previews/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg.ogg
+/Users/donovan/Music/Ableton/Factory Packs/Loopmasters Mixtape/Ableton Folder Info/Previews/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg.ogg.asd
+/Users/donovan/Music/Ableton/Factory Packs/Loopmasters Mixtape/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 024212].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 024219].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 024825].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 024831].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 030407].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 030418].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 030520].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 033441].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2019-02-20 034930].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Ben Jee - Pick Me up (Hedawn Future Screw edit).als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Future Screw Template Project
+/Users/donovan/Music/Ableton/pre mac/2019 projects/Future Screw Template Project/Future Screw Template.als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-03-26 183556].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-03-27 001634].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-03-27 030158].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-04-01 212244].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-04-02 013421].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/Backup/thought pool future screw [2019-04-02 021216].als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/thought pool future screw {no compression}.als
+/Users/donovan/Music/Ableton/pre mac/2019 projects/thought pool future screw Project/thought pool future screw.als
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152053].wav
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152053].wav.asd
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152733].wav
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152733].wav.asd
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152744].wav
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 02 [2020-09-14 152744].wav.asd
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 03 [2020-09-15 135650].wav
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 03 [2020-09-15 135650].wav.asd
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 03 [2020-09-15 140604].wav
+/Users/donovan/Music/Ableton/pre mac/2020 porjects/onHELL YA Project/Samples/Processed/Consolidate/angels 03 [2020-09-15 140604].wav.asd
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-11 150657].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-11 153707].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-11 154559].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-11 170217].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-12 135247].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-13 124555].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-13 134916].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-13 141704].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-14 161153].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/Backup/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] [2022-11-14 162350].als
+/Users/donovan/Music/Ableton/pre mac/2022 projects/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] Project/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2023-01-15 160302].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Backup/Ben Jee - Pick Me up (Hedawn Future Screw edit) [2023-08-22 151018].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Ben Jee - Pick Me up (Hedawn Future Screw edit) Project/Ben Jee - Pick Me up (Hedawn Future Screw edit).als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-06-24 160206].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-06-24 161220].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-06-24 161759].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-06-29 211041].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-06-29 211341].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02 [2023-08-22 150635].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] [2023-06-23 182545].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] [2023-06-23 183734].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Backup/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] [2023-06-23 192211].als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] 02.als
+/Users/donovan/Music/Ableton/pre mac/2023 projects/Shahmen - Abacus [HeDawn 2023 Future Screw Edit] Project/Shahmen - Abacus [HeDawn 2023 Future Screw Edit].als
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Glitch and Wash/Samples/Loops/Music Loops/Synth Loops/Dying Angels Cm 120 bpm.aif
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Glitch and Wash/Samples/Loops/Music Loops/Synth Loops/Dying Angels Cm 120 bpm.aif.asd
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Loopmasters Mixtape/Ableton Folder Info/Previews/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg.ogg
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Loopmasters Mixtape/Ableton Folder Info/Previews/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg.ogg.asd
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Loopmasters Mixtape/Sounds/TrackTeam/Aetherwave Voices/VOIC Angels in the Background.adg
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Ableton Folder Info/Previews/Sampler/Piano & Keys/Fast Weaver.adv.ogg
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Ableton Folder Info/Previews/Sampler/Piano & Keys/Fast Weaver.adv.ogg.asd
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Ableton Folder Info/Previews/Sounds/Piano & Keys/Fast Weaver.adg.ogg
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Ableton Folder Info/Previews/Sounds/Piano & Keys/Fast Weaver.adg.ogg.asd
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Sampler/Piano & Keys/Fast Weaver.adv
+/Users/donovan/Music/Ableton/pre mac/ableton packs/Samplification/Sounds/Piano & Keys/Fast Weaver.adg
+/Users/donovan/Music/Ableton/pre mac/desktop backup/angels 02.wav
+/Users/donovan/Music/Ableton/pre mac/desktop backup/angels 03.wav
+/Users/donovan/Music/Lexicon/no name/Unknown Artist/Unknown Album/Angels Crest (Valdeez 140 Flip) (1).mp3
+/Users/donovan/Music/Lexicon/no name/sloura
+/Users/donovan/Music/Lexicon/no name/sloura/Unknown Album/sloura - Weave No. 1 - Time Moves Slow by B.aiff
+/Users/donovan/Music/Lexicon/no name/sloura/Unknown Album/sloura - Weave No. 2 - Ocean Eyes by Billie.aiff
+/Users/donovan/Music/Lexicon/no name/sloura/Unknown Album/sloura - Weave No. 3 Angels By The XX.aiff
+/Users/donovan/Music/tunes/A$AP ROCKY - GOLDIE X ORI SHOCHAT REMIX (HEDAWN FUTURE SCREW MASH UP).wav
+/Users/donovan/Music/tunes/Angels Crest (Valdeez 140 Flip) (1).mp3
+/Users/donovan/Music/tunes/Angels Crest (Valdeez 140 Flip) (1).wav
+/Users/donovan/Music/tunes/Angels Crest (Valdeez 140 Flip).wav
+/Users/donovan/Music/tunes/BADBADNOTGOOD - Time Moves Slow (Feat. Sam Herring).wav
+/Users/donovan/Music/tunes/LSDXOXO - LSDXOXO's Deepest Cuts - 12 Floorgasm 001 (No Angels in Sonic Destruction).mp3
+/Users/donovan/Music/tunes/Madillac - Carousel (feat. PRKR) [Hedawn Future Screw Edit].wav
+/Users/donovan/Music/tunes/The xx - Angels.wav
+/Users/donovan/Music/tunes/Weaver Beats - Volume 5 - 13 Hold You.mp3
+/Users/donovan/Music/tunes/all i ask - huglife remix (hedawn future screwd and chopp).wav
+/Users/donovan/Music/tunes/mine/sloura - Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring.aiff
+/Users/donovan/Music/tunes/mine/sloura - Weave No. 2 - Ocean Eyes by Billie Eilish.aiff
+/Users/donovan/Music/tunes/mine/sloura - Weave No. 3 Angels By The XX.aiff
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-12-22.wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-12-22.wav.asd
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-13-22 01.wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-13-22 01.wav.asd
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-13-22 02 [master].wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-13-22 02.wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-13-22 02.wav.asd
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01 [master].wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01 [master].wav.asd
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01.wav
+/Users/donovan/Music/tunes/production/0riginals/screw edits/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01.wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Bass).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Bass).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Drums).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Drums).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Guitar).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Guitar).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Other).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Other).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Piano).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Piano).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Vocals).wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/1_time moves slow [warped]_(Vocals).wav.asd
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/time moves slow [warped].wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/time moves slow.wav
+/Users/donovan/Music/tunes/production/AI stems/time moves slow/time moves slow.wav.asd
+/Users/donovan/Music/tunes/production/screw/angels screw Project
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-16 120820].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-16 122434].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-16 180915].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-16 230252].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-17 000517].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-06-17 125656].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-07-31 224124].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2025-08-15 155914].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [2026-03-17 014139].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [master] [2026-03-17 044956].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/Backup/angels screw [master] [2026-03-17 052821].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/angels screw [master].als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/angels screw.als
+/Users/donovan/Music/tunes/production/screw/angels screw Project/cover art/weave no 3 cover.png
+/Users/donovan/Music/tunes/production/screw/angels screw Project/cover art/weave no 3 cover.psd
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 01.aif
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 01.aif.asd
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 02 m.aif
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 02 m.aif.asd
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 02.aif
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/Sloura Weave No. 3 Angels By The XX [3-17-26] 02.aif.asd
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/angels screw 6-16-26 01 m.wav
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/angels screw 6-16-26 01 m.wav.asd
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/angels screw 6-16-26 01.wav
+/Users/donovan/Music/tunes/production/screw/angels screw Project/exports/angels screw 6-16-26 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/cover/reweave no 2 cover.png
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/cover/reweave no 2 cover.psd
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [3-17-26] 01.aif
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [3-17-26] 01.aif.asd
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [6-13-25] 01.wav
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [6-13-25] 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [Chopless Version] 6-11-25 01.wav
+/Users/donovan/Music/tunes/production/screw/screw eyes Project/exports/Sloura Weave No. 2 - Ocean Eyes by Billie Eilish [Chopless Version] 6-11-25 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise] [guitar denoise].mid
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise] [guitar denoise].orig1.mid
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [2025-09-04 133348].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [2025-09-04 133547].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 120357].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 122101].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 122937].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 130257].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 133318].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 133422].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 133513].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final] [2025-09-04 134405].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-04 221856].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-04 225744].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-04 231446].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-04 232710].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-05 121210].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-05 122915].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-05 131605].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-05 131623].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-05 181421].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [2025-06-06 124616].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [chopless version] [2025-06-06 162903].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [chopless version] [2025-06-06 213909].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [chopless version] [2025-09-04 115941].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [chopless version] [2025-09-04 120016].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [nightcore version] [2025-06-04 232931].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [nightcore version] [2025-06-06 131804].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/time moves slow warp 2 [2025-06-02 223348].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/time moves slow warp 2 [2025-06-02 224521].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Backup/time moves slow warp [2025-06-01 234650].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Consolidate/BADBADNOTGOOD - Time Moves Slow (Feat. Sam Herring) [2025-06-02 223155].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Consolidate/BADBADNOTGOOD - Time Moves Slow (Feat. Sam Herring) [2025-06-02 223155].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Consolidate/time moves slow [2025-05-28 163316].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Consolidate/time moves slow [2025-05-28 163316].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Freeze/Freeze 2-20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_vocals_[mvsep.com] [2025-06-05 130626]-1.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Freeze/Freeze 2-20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_vocals_[mvsep.com] [2025-06-05 130626]-1.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Freeze/Freeze 6-20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_bass_[mvsep.com] [2025-06-05 125916]-1.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Freeze/Freeze 6-20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_bass_[mvsep.com] [2025-06-05 125916]-1.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/1_time moves slow [warped]_(Drums) R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/1_time moves slow [warped]_(Drums) R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-cymbals_[mvsep.com] R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-cymbals_[mvsep.com] R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-hh_[mvsep.com] R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-hh_[mvsep.com] R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-snare_[mvsep.com] R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-snare_[mvsep.com] R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_guitar_[mvsep.com] R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_guitar_[mvsep.com] R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com] R-1.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com] R-2.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com] R-2.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com] R.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Samples/Processed/Reverse/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com] R.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [final].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring.als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [chopless version].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [nightcore version].als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring.als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [5-31-25] 01 master 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [5-31-25] 01 master 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [5-31-25] 02 master 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [5-31-25] 02 master 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-4-25] 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-4-25] 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02 -m [3-17-26] 01.aif
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02 -m [3-17-26] 01.aif.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02 -m.aif
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02 -m.aif.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow by BADBADNOTGOOD feat. Samuel T. Herring [9-5-25] 02.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [6-5-25 01] m.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [6-5-25 01] m.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [6-5-25] 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [6-5-25] 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-3-25 01 m.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-3-25 01 m.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 01 m.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 01 m.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 02 m.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 02 m.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 02.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-4-25 02.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-5-25 01 m.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-5-25 01 m.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-5-25 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version] 6-5-25 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/Sloura Weave No. 1 - Time Moves Slow ny BADBADNOTGOOD feat. Samuel T. Herring [Chopless Version].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow bass warped slowed and repaired [6-2-25] 01.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow bass warped slowed and repaired [6-2-25] 01.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow warped and slowed.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow warped and slowed.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow wav warp 2.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow wav warp 2.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow wav warp and slow 2.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/exports/time moves slow wav warp and slow 2.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 1/20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2_voc_ensemble_mt_6_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 1/20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2_voc_ensemble_mt_6_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 1/20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2_voc_ensemble_mt_6_vocals_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 1/20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2_voc_ensemble_mt_6_vocals_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_bass_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_bass_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_drums_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_drums_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_instrum_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_instrum_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_vocals_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 2/20250603040731-e0d8fac18b-time-moves-slow-wav-warp-2_8_ensemble_mt_10_vocals_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_bass_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_bass_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-cymbals_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-cymbals_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-hh_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-hh_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-kick_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-kick_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-snare_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-snare_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-toms_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums-toms_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_drums_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_guitar_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_guitar_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_instrum_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_instrum_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_piano_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_piano_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals-back_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals-back_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals-lead_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals-lead_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ensemble 3/20250603041008-e0d8fac18b-time-moves-slow-wav-warp-2_all_in_ensemble_mt_10_vocals_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-melroformer_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-scnet_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ-scnet_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_organ_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/organ/20250603175555-e3f794fb52-20250603035347-e0d8fac18b-time-moves-slow-wav-warp-2-voc-ensembl_organ_mt_2_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Bass.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Bass.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Drums.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Drums.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Other Instruments.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Other Instruments.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Vocals.wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/ov/time moves slow warped and slowed-Vocals.wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Bass).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Bass).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Drums).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Drums).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Guitar).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Guitar).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Other).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Other).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Piano).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Piano).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Vocals).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 2/1_time moves slow wav warp 2_(Vocals).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Bass).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Bass).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Drums).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Drums).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Guitar).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Guitar).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Other).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Other).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Piano).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Piano).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Vocals).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr 3/1_time moves slow wav warp and slow 2_(Vocals).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Bass).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Bass).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Drums).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Drums).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Guitar).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Guitar).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Other).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Other).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Piano).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Piano).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Vocals).wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/1_time moves slow warped and slowed_(Vocals).wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise] [guitar denoise].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise] [guitar denoise].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed] [spectral denoise].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise] [de-bleed].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/bass/1_time moves slow warped and slowed_(Bass) [spectral denoise].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/guitar/1_time moves slow warped and slowed_(Guitar) [spectral denoise] [de-bleed] [guitar de-noise].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/RX/guitar/1_time moves slow warped and slowed_(Guitar) [spectral denoise] [de-bleed] [guitar de-noise].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/agressive/20250602170526-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_1_dry_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/agressive/20250602170526-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_1_dry_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/agressive/20250602170526-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_1_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/agressive/20250602170526-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_1_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/standard/20250602165929-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_0_dry_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/standard/20250602165929-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_0_dry_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/standard/20250602165929-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_0_other_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/denoise/standard/20250602165929-54582094b9-1-time-moves-slow-warped-and-slowed-bass_denoise_mt_0_other_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_cymbals_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_cymbals_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_kick_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_kick_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_snare_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_snare_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_toms_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (4 stems)/20250602164034-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_6_toms_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_crash_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_crash_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_hh_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_hh_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_kick_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_kick_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_ride_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_ride_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_snare_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_snare_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_toms_[mvsep.com].wav
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/stems/uvr/drumsep melband reformer (6 stems)/20250602150523-6aafc29394-1-time-moves-slow-warped-and-slowed-drums_drumsep_mt_7_toms_[mvsep.com].wav.asd
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/time moves slow bass tab.txt
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/time moves slow warp 2.als
+/Users/donovan/Music/tunes/production/screw/screw moves slow Project/time moves slow warp.als
+/Users/donovan/Music/tunes/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01.mp3
+/Users/donovan/Music/tunes/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01.wav
+/Users/donovan/Music/tunes/tomas cherry ft durow - bad vibes [HeDawn Future Screw Edit] 11-14-22 01.wav.asd
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/01_LUM_GAME_CONCEPTS_EXISTING/misc docs/Weaver roadmap.docx
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/02_DESIGN_LANGUAGES_PHILOSOPHY_EXISTING/Design languages_/7 personifications_/The Weaver design language.docx
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/02_DESIGN_LANGUAGES_PHILOSOPHY_EXISTING/Weaver’s toolkit.docx
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/06_RITUALS_MYTHOLOGY_PERSONAL_WRITINGS_EXISTING/Weaver.docx
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/forge outputs/test-01/Chrono Weavers Tale.docx
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/forge outputs/test-01/Chrono Weavers Tale.pdf
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/design_language/The Weaver design language.json
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/design_language/Weaver’s toolkit.json
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/game_design/Weaver roadmap.json
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/mythology_personal/Weaver.json
+/Users/donovan/work/0000000/0_master sketch docs/CURRENT_DOCUMENTS_MASTER_FOLDER/parsed_output/worldbuilding/Chrono Weavers Tale.json
+/Users/donovan/work/0000000/Artifice Engine/src/artifice/gpu/shaders/corruption/data_weave.glsl
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/0.n.i.s.0000.relation-grounds-measure/00.nn.ii.ss.0000.constant-references-flux/object.web-tangle-weave.f0.20260614-152006.md
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/0.n.i.s.0000.relation-grounds-measure/00.nn.ii.ss.0000.constant-references-flux/source.shannon-weaver-1949.f0.20260614-130345.md
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/1.v.d.o.0333.presence-minds-awareness/11.vv.dd.oo.0444.focus-discerns-difference/110.vvn.ddi.oos.0444.attention-watches-knot/play.TS_3D.unweave-control-L2phi.20260611-162056.png
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/1.v.d.o.0333.presence-minds-awareness/11.vv.dd.oo.0444.focus-discerns-difference/110.vvn.ddi.oos.0444.attention-watches-knot/play.TS_3D.unweave-tb-floor.20260611-162116.png
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/1.v.d.o.0333.presence-minds-awareness/11.vv.dd.oo.0444.focus-discerns-difference/110.vvn.ddi.oos.0444.attention-watches-knot/play.TS_3D.unweave-tb0p01.20260611-162109.png
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/1.v.d.o.0333.presence-minds-awareness/11.vv.dd.oo.0444.focus-discerns-difference/110.vvn.ddi.oos.0444.attention-watches-knot/play.TS_3D.unweave-tb0p1.20260611-162103.png
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/2.m.g.c.0667.structure-maintains-order/21.mv.gd.co.0778.labor-installs-practice/211.mvv.gdd.coo.0815.motion-builds-form/play-13-unweave.json
+/Users/donovan/work/0000000/MNM_BACKUP/01/mind not map/2.m.g.c.0667.structure-maintains-order/22.mm.gg.cc.0889.thread-dresses-weave
+/Users/donovan/work/0000000/MNM_BACKUP/02/0.relation-grounds-measure/00.constant-references-flux/000.unit-holds-one/quarantine/acp-bin1/modern/spiritual/angels.jsonld
+/Users/donovan/work/0000000/MNM_BACKUP/02/0.relation-grounds-measure/corpus/records/object.angel-angels.f0.20260617-041052.md
+/Users/donovan/work/0000000/MNM_BACKUP/02/0.relation-grounds-measure/corpus/records/object.angel-archangels.f0.20260617-041052.md
+/Users/donovan/work/0000000/MNM_BACKUP/02/0.relation-grounds-measure/corpus/records/object.web-tangle-weave.f0.20260614-152006.md
+/Users/donovan/work/0000000/MNM_BACKUP/02/0.relation-grounds-measure/corpus/records/source.shannon-weaver-1949.f0.20260614-130345.md
+/Users/donovan/work/0000000/MNM_BACKUP/02/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-control-L2phi.20260611-162056.png
+/Users/donovan/work/0000000/MNM_BACKUP/02/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb-floor.20260611-162116.png
+/Users/donovan/work/0000000/MNM_BACKUP/02/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb0p01.20260611-162109.png
+/Users/donovan/work/0000000/MNM_BACKUP/02/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb0p1.20260611-162103.png
+/Users/donovan/work/0000000/MNM_BACKUP/02/2.structure-maintains-order/21.labor-installs-practice/211.motion-builds-form/play-13-unweave.json
+/Users/donovan/work/0000000/MNM_BACKUP/02/2.structure-maintains-order/22.thread-dresses-weave
+/Users/donovan/work/0000000/[archive]/ACP/modern/spiritual/angels.jsonld
+/Users/donovan/work/0000000/[archive]/[archive] Artifice v2 (merged)/src/artifice/nodes/corruption/__pycache__/data_weave.cpython-314.pyc
+/Users/donovan/work/0000000/[archive]/[archive] Artifice v2 (merged)/src/artifice/nodes/corruption/data_weave.py
+/Users/donovan/work/0000000/[archive]/[archive] Artifice v2 (merged)/src/artifice/shaders/corruption/data_weave.glsl
+/Users/donovan/work/0000000/[archive]/cursor projects/_working_tools/ai_image_manager/ai_image_manager/static/images/DALLE_2025-01-15_18.39.06_-_A_memory_palace_representing_the_Heros_Meeting_with_the_Mentor_with_the_Weaver_guiding_their_understanding._The_scene_depicts_a_space_that_is_both_w.webp
+/Users/donovan/work/0000000/[archive]/cursor projects/_working_tools/ai_image_manager/ai_image_manager/static/images/DALLE_2025-01-15_18.40.08_-_A_memory_palace_representing_the_Heros_Ordeal_with_the_Weaver_transforming_the_chaos_into_a_new_pattern._The_scene_depicts_a_space_filled_with_inten.webp
+/Users/donovan/work/0000000/[archive]/cursor projects/_working_tools/ai_image_manager/ai_image_manager/static/images/DALLE_2025-01-15_18.41.02_-_A_memory_palace_representing_the_Heros_Return_with_the_Elixir_with_the_Weaver_sharing_their_gift_with_the_world._The_scene_is_both_familiar_and_tran.webp
+/Users/donovan/work/0000000/mind not map/0.relation-grounds-measure/00.constant-references-flux/000.unit-holds-one/quarantine/acp-bin1/modern/spiritual/angels.jsonld
+/Users/donovan/work/0000000/mind not map/0.relation-grounds-measure/corpus/records/object.angel-angels.f0.20260617-041052.md
+/Users/donovan/work/0000000/mind not map/0.relation-grounds-measure/corpus/records/object.angel-archangels.f0.20260617-041052.md
+/Users/donovan/work/0000000/mind not map/0.relation-grounds-measure/corpus/records/object.web-tangle-weave.f0.20260614-152006.md
+/Users/donovan/work/0000000/mind not map/0.relation-grounds-measure/corpus/records/source.shannon-weaver-1949.f0.20260614-130345.md
+/Users/donovan/work/0000000/mind not map/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-control-L2phi.20260611-162056.png
+/Users/donovan/work/0000000/mind not map/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb-floor.20260611-162116.png
+/Users/donovan/work/0000000/mind not map/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb0p01.20260611-162109.png
+/Users/donovan/work/0000000/mind not map/1.presence-minds-awareness/11.focus-discerns-difference/110.attention-watches-knot/play.TS_3D.unweave-tb0p1.20260611-162103.png
+/Users/donovan/work/0000000/mind not map/2.structure-maintains-order/21.labor-installs-practice/211.motion-builds-form/play-13-unweave.json
+/Users/donovan/work/0000000/mind not map/2.structure-maintains-order/22.thread-dresses-weave
+/Users/donovan/work/0000000/mythic library/ACP/modern/spiritual/angels.jsonld
+/Users/donovan/work/0000000/shadertoy shaders/Screen Weaver.json
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/otel/mappers/__pycache__/weave.cpython-312.pyc
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/otel/mappers/weave.py
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/otel/presets/__pycache__/weave.cpython-312.pyc
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/otel/presets/weave.py
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/weave
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/weave/__pycache__/weave_otel.cpython-312.pyc
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/integrations/weave/weave_otel.py
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/types/integrations/__pycache__/weave_otel.cpython-312.pyc
+/Users/donovan/work/harness/.venv/lib/python3.12/site-packages/litellm/types/integrations/weave_otel.py
+/Users/donovan/work/memory lattice/0/corpus/records/object.angel-angels.f0.20260617-041052.md
+/Users/donovan/work/memory lattice/0/corpus/records/object.angel-archangels.f0.20260617-041052.md
+/Users/donovan/work/memory lattice/0/corpus/records/object.web-tangle-weave.f0.20260614-152006.md
+/Users/donovan/work/memory lattice/0/corpus/records/source.shannon-weaver-1949.f0.20260614-130345.md
+/Users/donovan/work/met3or/WEAVE.md
+/Users/donovan/work/sloura
+/Users/donovan/work/sloura/evidence/t0159/ig-slow.aura-meta.html
+/Users/donovan/work/sloura/evidence/t0159/ig-slow.aura-profile.json
+/Users/donovan/work/sloura/evidence/t0159/ig-slow.aura.html
+/Users/donovan/work/studio-operations/board/data/runs/verify-codex-20261011T051207/scratch/internal/backups/before-hostpaths-20260924T033429Z/site/sources/locations-sloura.txt
+/Users/donovan/work/studio-operations/board/data/runs/verify-codex-20261011T051207/scratch/site/sources/locations-sloura.txt
+/Users/donovan/work/studio-operations/board/data/runs/verify-codex-20261012T054242/scratch/WEAVE.md
+/Users/donovan/work/studio-operations/pilots/pi-01/node_modules/@earendil-works/pi-coding-agent/node_modules/highlight.js/lib/languages/angelscript.js
+/Users/donovan/work/work-wiki/internal/backups/before-hostpaths-20260924T033429Z/site/sources/locations-sloura.txt
+/Users/donovan/work/work-wiki/internal/board/claims/closed/20261011T141550Z-sloura-codex.json
+/Users/donovan/work/work-wiki/internal/board/claims/closed/20261012T044616Z-sloura-claude.json
+/Users/donovan/work/work-wiki/internal/board/claims/closed/20261012T044846Z-sloura-claude.json
+/Users/donovan/work/work-wiki/internal/board/claims/closed/20261012T051905Z-sloura-codex.json
+/Users/donovan/work/work-wiki/internal/creator-updates/sloura-2026-10-11.md
+/Users/donovan/work/work-wiki/internal/runs/t0140-sloura
+/Users/donovan/work/work-wiki/internal/runs/t0140-sloura/article-sloura.html
+/Users/donovan/work/work-wiki/internal/runs/t0140-sloura/article-sloura.png
+/Users/donovan/work/work-wiki/internal/runs/t0140-sloura/before-sloura.json
+/Users/donovan/work/work-wiki/internal/runs/t0140-sloura/source-creator-sloura-2026-10-11.html
+/Users/donovan/work/work-wiki/internal/runs/t0150-sloura-review
+/Users/donovan/work/work-wiki/internal/runs/t0150-sloura-review/article-sloura.html
+/Users/donovan/work/work-wiki/internal/runs/t0150-sloura-review/article-sloura.png
+/Users/donovan/work/work-wiki/internal/runs/t0153-sloura-fix
+/Users/donovan/work/work-wiki/internal/runs/t0153-sloura-fix/article-sloura.html
+/Users/donovan/work/work-wiki/internal/runs/t0153-sloura-fix/article-sloura.png
+/Users/donovan/work/work-wiki/internal/runs/t0153-sloura-fix/source-creator-sloura-2026-10-11.html
+/Users/donovan/work/work-wiki/scripts/apply_sloura.py
+/Users/donovan/work/work-wiki/site/sources/creator-sloura-2026-10-11.txt
+/Users/donovan/work/work-wiki/site/sources/locations-sloura.txt

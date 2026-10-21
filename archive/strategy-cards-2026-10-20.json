@@ -1,0 +1,301 @@
+{
+ "archived_at": "2026-10-20",
+ "why": "Hedawn: content strategy is the last thing on our minds until he says otherwise (M-0813, 14 Oct; repeated 20 Oct via the OM). Taken off the Sloura workbench; the db docs carry archived:true.",
+ "workbench": "https://claude.ai/artifact/LwYaBFhdmkBSz2gAWgfxdy",
+ "blocks": {
+  "s01": {
+   "n": 101,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "HeDawn in posts: for now, not a law",
+   "gist": "Was \"never Hedawn\" in the draft. Your mark on the character page made it for now.",
+   "lines": [
+    {
+     "s": "Now: Sloura's posts do not name or tag HeDawn for now. It is not a law (W-b20)."
+    },
+    {
+     "s": "Was: \"Nothing posted under or tagged with the Hedawn name\" (Out of bounds) and \"signed sloura, never Hedawn\" (placeholder 5)."
+    },
+    {
+     "s": "Ideas A and C below were held on this rule. They still wait for your yes."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s02": {
+   "n": 102,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Remakes of Future Screw edits are Sloura's to post",
+   "gist": "Was: no HeDawn Future Screw edits. Now Sloura will remake some in high quality.",
+   "lines": [
+    {
+     "s": "Now: when Sloura remakes a Future Screw edit in high quality, the remake is Sloura's and can be posted (W-b18)."
+    },
+    {
+     "s": "The original edits stay HeDawn's and are not posted by Sloura (S7)."
+    },
+    {
+     "s": "Was: \"no HeDawn future screw edits (those are Hedawn's, not Sloura's)\" (Out of bounds)."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s03": {
+   "n": 103,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Target: 100 followers across the three accounts",
+   "gist": "Counted together: Instagram, SoundCloud and Bandcamp.",
+   "lines": [
+    {
+     "s": "Placeholder 1. Today: Instagram 0 followers, SoundCloud 1 (stock)."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s04": {
+   "n": 104,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Instagram: 2 posts a week, Tuesday and Friday",
+   "gist": "One reel and one still or carousel each week.",
+   "lines": [
+    {
+     "s": "Placeholder 2. Instagram is where new followers should come from."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s05": {
+   "n": 105,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Audio clips: 20–30 seconds from the slowest part",
+   "gist": "Used in reels and on the first carousel slide.",
+   "lines": [
+    {
+     "s": "Placeholder 3."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s06": {
+   "n": 106,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Upload Weave No. 2 and No. 3 to SoundCloud",
+   "gist": "Today only No. 1 is there. One week apart, same titles as Bandcamp.",
+   "lines": [
+    {
+     "s": "Placeholder 4. Each description links to Bandcamp and @slow.aura."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s07": {
+   "n": 107,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Captions: lowercase, short, in the bio's terms",
+   "gist": "\"sonic philology / the study of slowness\", signed \"sloura\".",
+   "lines": [
+    {
+     "s": "Placeholder 5, with \"never Hedawn\" taken out (see the first card)."
+    },
+    {
+     "s": "Matches the Register card you marked Right."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s08": {
+   "n": 108,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "No date for Weave No. 4 yet",
+   "gist": "The rhythm runs on the three Weaves alone until there is one.",
+   "lines": [
+    {
+     "s": "Placeholder 6."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s09": {
+   "n": 109,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Instagram's job: where people find Sloura",
+   "gist": "Reels of a clip over its cover; carousels of a cover and its variants.",
+   "lines": [
+    {
+     "s": "The 3 cover posts already up stay as the grid's base. Bio link points to Bandcamp."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s10": {
+   "n": 110,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "SoundCloud's job: free listening and follows",
+   "gist": "All three Weaves, then nothing new until a new Weave.",
+   "lines": [
+    {
+     "s": "Each description links to Bandcamp and @slow.aura."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s11": {
+   "n": 111,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Bandcamp's job: home and shop",
+   "gist": "No new posts. Fix the profile to link Instagram and SoundCloud.",
+   "lines": [
+    {
+     "s": "Every post points here. It only changes when a new Weave is released."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s12": {
+   "n": 112,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "First 5 posts, in order",
+   "gist": "Reel No. 1 · upload No. 2 · reel No. 2 · upload No. 3 · No. 3 carousel",
+   "lines": [
+    {
+     "head": "# | Where | What"
+    },
+    {
+     "row": "1 | Instagram reel | Clip of Weave No. 1 over its cover; caption names the original song"
+    },
+    {
+     "row": "2 | SoundCloud | Upload Weave No. 2"
+    },
+    {
+     "row": "3 | Instagram reel | Clip of Weave No. 2 over its cover: \"now on SoundCloud\""
+    },
+    {
+     "row": "4 | SoundCloud | Upload Weave No. 3"
+    },
+    {
+     "row": "5 | Instagram carousel | No. 3 cover plus 4 glitch variants, clip on slide 1"
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s13": {
+   "n": 113,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Idea B: where the sound comes from",
+   "gist": "The 2015 Green Label Future Screw headline, one caption line.",
+   "lines": [
+    {
+     "s": "Instagram still or story, with its Internet Archive link."
+    },
+    {
+     "s": "It doesn't name HeDawn. Whether posting a screenshot of someone else's article is fine has not been checked."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s14": {
+   "n": 114,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Idea A: Angels, twelve years apart",
+   "gist": "Weave No. 3 cover and clip, then a card: \"angels, screwed: 2014 / 2026\".",
+   "lines": [
+    {
+     "s": "The 2014 one is HeDawn's Future Screw edit of the same song. The post doesn't name it, but hints at it."
+    },
+    {
+     "s": "Held: needs your yes, under the HeDawn card at the top."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s15": {
+   "n": 115,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Idea C: say it plainly",
+   "gist": "Pinned post or bio line: \"an evolution of my future screw work i did as hedawn\".",
+   "lines": [
+    {
+     "s": "Links soundcloud.com/hedawn (1,210 followers). The only idea that could bring HeDawn's listeners over."
+    },
+    {
+     "s": "Held: needs your yes, under the HeDawn card at the top."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s16": {
+   "n": 116,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "No paid promotion of any kind",
+   "gist": "Growth comes from posting only.",
+   "lines": [
+    {
+     "s": "From Out of bounds."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  },
+  "s17": {
+   "n": 117,
+   "section": "Strategy",
+   "kind": "default",
+   "title": "Copyright risk is untested",
+   "gist": "Weaves rework others' songs; uploads or reel audio might be muted or removed.",
+   "lines": [
+    {
+     "s": "A guess, not checked. Listed so you can say if it matters."
+    },
+    {
+     "s": "From strategy-draft.md (T-0178, 13 Oct), drafted before your character marks."
+    }
+   ]
+  }
+ }
+}

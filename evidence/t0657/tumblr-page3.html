@@ -1,0 +1,1153 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="" lang="en"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+ <!-- CMPNDM THEME //CMPNDMEngine2
+ Last Revision: December 18, 2011 
+ by Danny Cohen @ dco1.com -->
+ 
+<title> Future Screw Crew</title>
+<meta name="description" content="" />
+
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{bottom:10px;left:50%;position:fixed;transform:translateX(-50%);visibility:hidden;z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{animation:iframe-app-cta-transition .2s ease-out;visibility:visible}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=c84cc817a1ee7fd25e460c8fcc102f7b"><link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_f51c3dcb0cf3_128.pnj" />
+<link rel="apple-touch-icon" href="https://64.media.tumblr.com/avatar_f51c3dcb0cf3_128.pnj"/>
+<link rel="alternate" type="application/rss+xml" href="https://futurescrewcrew.tumblr.com/rss" />
+
+<meta name="color:Background" content="#E3E3E3" />
+<meta name="color:Top Border Color" content="#f9382d" />
+<meta name="color:Body Text" content="#373737" />
+<meta name="color:Link Color" content="#3e8fa0" />
+  
+<meta name="color:Triangle One Color" content="#66a22c" />
+<meta name="color:Triangle Two Color" content="#ffdc24" />
+
+<meta name="if:Show Tags" content="1" />
+<meta name="if:Show Album Art on Audio Posts" content="1" />
+<meta name="if:Multiple Columns" content="1"/>
+<meta name="if:Infinite Scroll" content="0"/>
+<meta name="if:Photosets as Slideshows" content="1" />
+
+<meta name="text:Bottom Triangle Colors" content="'#f9382d','#1b7d8d','#303030','#050f15'" />
+
+<meta name="text:Disqus Shortname" content="" />
+<meta name="text:Copyright Information" content="Powered by Tumblr. &copy; 2011" />
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Vollkorn:400italic,400|Signika:400,600,300" />
+  
+<!--[if IE]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+// You may specify partial version numbers, such as "1" or "1.3",
+//  with the same result. Doing so will automatically load the 
+//  latest version matching that partial revision pattern 
+//  (e.g. 1.3 would load 1.3.2 today and 1 would load 1.4.1).
+
+google.load("jquery", "1.6");
+google.load("jqueryui", "1.6");
+google.setOnLoadCallback(function() {
+
+
+
+ $.Isotope.prototype._getCenteredMasonryColumns = function() {
+    this.width = this.element.width();
+    
+    var parentWidth = this.element.parent().width();
+    
+                  // i.e. options.masonry && options.masonry.columnWidth
+    var colW = this.options.masonry && this.options.masonry.columnWidth ||
+                  // or use the size of the first item
+                  this.$filteredAtoms.outerWidth(true) ||
+                  // if there's no items, use size of container
+                  parentWidth;
+    
+    var cols = Math.floor( parentWidth / colW );
+    cols = Math.max( cols, 1 );
+
+    // i.e. this.masonry.cols = ....
+    this.masonry.cols = cols;
+    // i.e. this.masonry.columnWidth = ...
+    this.masonry.columnWidth = colW;
+
+  };
+  
+  $.Isotope.prototype._masonryReset = function() {
+    // layout-specific props
+    this.masonry = {};
+    // FIXME shouldn't have to call this again
+    this._getCenteredMasonryColumns();
+    var i = this.masonry.cols;
+    this.masonry.colYs = [];
+    while (i--) {
+      this.masonry.colYs.push( 0 );
+    }
+    
+  };
+
+  $.Isotope.prototype._masonryResizeChanged = function() {
+    var prevColCount = this.masonry.cols;
+    // get updated colCount
+    this._getCenteredMasonryColumns();
+    
+    return ( this.masonry.cols !== prevColCount );
+  };
+  
+  $.Isotope.prototype._masonryGetContainerSize = function() {
+    var unusedCols = 0,
+        i = this.masonry.cols;
+    // count unused columns
+    while ( --i ) {
+      if ( this.masonry.colYs[i] !== 0 ) {
+        break;
+      }
+      unusedCols++;
+    }
+    
+    return {
+          height : Math.max.apply( Math, this.masonry.colYs ),
+          // fit container to columns that have been used;
+          width : (this.masonry.cols - unusedCols) * this.masonry.columnWidth
+        };
+  };
+
+
+
+
+
+
+
+// $('#posts').isotope({itemSelector: 'article'});
+var $postcontainer = $('#posts');
+
+function page_action() {
+    if ( $('body').hasClass('columns') ) {
+        $postcontainer.imagesLoaded(function(){
+            $postcontainer.isotope({
+                 itemSelector: 'article',
+                 transformsEnabled: false,
+                 },  function() {
+                 $("#container").css('opacity', 1);
+            });
+            resizefooterandheader();
+        
+        });
+    }  else { 
+        $('#container, footer').css({'width':  '500px' });     $("#container").css('opacity', 1); 
+    }
+};
+
+
+page_action(); 
+top_triangle();
+bottom_triangle();
+
+
+function top_triangle(){
+
+ $('header').prepend('<canvas id="top_triangle" width="180" height="110"/>');
+var canvas = $('header').find('canvas')[0];  
+var ctx = canvas.getContext('2d');  
+ $('h1').find('canvas').height('100px');
+ 
+ctx.beginPath();
+ctx.moveTo(180,0.0);
+ctx.lineTo(120,105);
+ctx.lineTo(120,105);
+ctx.lineTo(0,105);
+ctx.lineTo(60,0);
+ctx.lineTo(60,0);
+ctx.lineTo(180,0.0);
+ctx.fillStyle = "#cf04bd";  
+ctx.fill();  
+ctx.beginPath();
+ctx.moveTo(181,0.0);
+ctx.lineTo(61,0);
+ctx.lineTo(60,0);
+ctx.lineTo(121,106);
+ctx.fillStyle = "#a600ff";  
+ctx.fill();  
+
+
+}
+
+function bottom_triangle(){
+var colors = ['#f9382d','#1b7d8d','#303030','#050f15'];
+var fillone = choose(colors);
+colors = $.grep(colors, function(value) {
+    return value != fillone;
+});
+var filltwo = choose(colors);	
+
+ $('footer').prepend('<canvas id="footer_triangle" width="100" height="55"/>');
+var canvas = $('footer').find('canvas')[0];  
+var ctx = canvas.getContext('2d');  
+ $('h1').find('canvas').height('50px');
+
+
+
+ctx.scale(.5,.5);
+
+ctx.beginPath();
+ctx.moveTo(180,0.0);
+ctx.lineTo(120,105);
+ctx.lineTo(120,105);
+ctx.lineTo(0,105);
+ctx.lineTo(60,0);
+ctx.lineTo(60,0);
+ctx.lineTo(180,0.0);
+ctx.fillStyle = fillone;  
+ctx.fill();  
+ctx.beginPath();
+ctx.moveTo(180,0.0);
+ctx.lineTo(60,0);
+ctx.lineTo(60,0);
+ctx.lineTo(121,105);
+ctx.fillStyle = filltwo;  
+ctx.fill();  
+
+
+}
+
+
+
+$(window).smartresize( function(){
+    resizefooterandheader();
+});
+   
+function resizefooterandheader(){
+    var isotopeInstance = $postcontainer.data('isotope');
+    $postcontainer.isotope('reLayout', function(){ 
+        var newboxwidth = ( isotopeInstance.masonry.cols * isotopeInstance.masonry.columnWidth ) - 20; 
+        $('header').width( newboxwidth );  $('footer').width( newboxwidth ); $('.navigation').width( newboxwidth );
+    }); 
+}
+
+
+
+// Infinite Scroll Begin
+
+  $postcontainer.infinitescroll({
+          navSelector  : '#bottomnav',    // selector for the paged navigation 
+          nextSelector : '#bottomnav a.oldernav',  // selector for the NEXT link (to page 2)
+          itemSelector : 'article',     // selector for all items you'll retrieve
+          loading: {
+              msgText: '',
+              finishedMsg: '',
+              speed: 'slow',
+              selector : $('footer'),
+              img: 'https://static.tumblr.com/tlev6ur/ioAlwc5xl/newinfinitescroller2.png'
+            },
+          debug        : false,    
+          errorCallback: function(){
+            $('footer').find('canvas').attr('title', 'No More Posts to Load.');
+            var canvas = $('footer').find('canvas')[0];  
+            var ctx = canvas.getContext('2d');  
+            ctx.beginPath();
+            ctx.fillStyle = "rgba( 255 ,255 ,255 ,0.6)";
+            ctx.fillRect(55, 40, 70, 22);
+            ctx.fill();
+                      },
+          },
+          // call Isotope as a callback
+          function( newElements ) {
+            var thehostname = window.location.hostname;
+            var $newElems = $(newElements);
+            $('.audio:has(span[id^="audio_player"])').each(function(){
+                            var audioID = $(this).attr("data-postid");
+                            var $audioPost = $(this).find('span[id^="audio_player"]');
+                            $.ajax({
+                                url: '/api/read/json?id=' + audioID,
+                                dataType: 'jsonp',
+                                timeout: 50000,
+                                success: function(data){
+                                    $audioPost.replaceWith('\x3cdiv class=\x22audio_player\x22\x3e' + data.posts[0]['audio-player'] +'\x3c/div\x3e');
+                                }
+                            });
+                        });
+            
+             $newElems.imagesLoaded(function(){ $postcontainer.isotope( 'appended', $( newElements ) );  });
+            
+                $('.photosetwrapper').removeClass('photosetwrapper').addClass('photoset').cycle(); 
+           
+          }
+        );
+
+// Infinite Scroll End
+
+
+  $('.photosetwrapper').removeClass('photosetwrapper').addClass('photoset').cycle(); 
+   
+function choose (set) {
+    return set[Math.floor(Math.random() * set.length)];
+}
+   
+});
+
+</script>
+<script type="text/javascript" src="https://static.tumblr.com/tlev6ur/shTlvwodz/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="https://static.tumblr.com/tlev6ur/3HMlwc4bs/jquery.infinitescroll.min.js"></script>
+<script type="text/javascript" src="https://static.tumblr.com/tlev6ur/EL8ldm1d4/jquery.cycle.all.min.js"></script>
+
+<style>
+* {  margin:0;  padding:0;  border:0;  outline:0;  font-size:100%;  vertical-align:baseline;  background:transparent;}                  
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display:block;}
+
+   ::-moz-selection { color:rgba(255,255,255,.8); background:#000;}
+        ::selection { color:rgba(255,255,255,.8); background:#000;}
+                       a:link { -webkit-tap-highlight-color: #000; } 
+
+
+h1, h2, h3, h4, h5, h6 {font-weight:normal;}
+a {text-decoration:none; outline: none;}
+
+.hide {display:none;}
+hr.foot {border:0px;clear: both;display: block;	overflow: hidden;visibility: hidden;width: 0px; margin:0;padding:0;	height: 0px;}
+
+.left {float:left;} .right {float:right;} 
+/* Layout */
+body {margin: 0 ;padding: 0; margin-bottom:30px; min-width:540px;}
+
+#container {opacity:0;
+
+  -webkit-transition: opacity 0.3s ease-out;  
+     -moz-transition: opacity 0.3s ease-out;  
+      -ms-transition: opacity 0.3s ease-out;  
+       -o-transition: opacity 0.3s ease-out;  
+          transition: opacity 0.3s ease-out;
+}
+
+header , footer , .navigation {margin:0 auto;  width:100%; padding:10px 0; position:relative; }
+footer { margin-bottom:30px; min-height:55px; width:500px;}
+.navigation  {padding:0;}
+
+canvas { position:absolute;  }
+
+h1 {display: block; }
+h1 a {width: 100%; height: 104px; position:relative;z-index:9;
+display:table-cell; font-weight:100;
+vertical-align:middle;
+font-family: 'LetterGothicStd',LetterGothicStd,'Orator Std', 'Droid Sans Mono', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+text-decoration: none;
+color: #ffffff;
+opacity:.9;
+font-size: 46.83px;
+text-transform: uppercase;
+
+line-height:76.0%;
+padding-top:5px;
+
+word-spacing:-15px;
+
+}
+
+h1 a:hover {opacity:1;}
+
+header input {background:rgba(255,255,255,.6); padding:3px; height:12px; margin:0; display:inline-block;vertical-align:middle;}
+header [type="submit"] {cursor:pointer;  height:18px; text-shadow:0px 1px 2px rgba(0,0,0,.3);}
+header [type="submit"]:hover { background:rgba(0,0,0,.5); color:white; position:relative; z-index:11; }
+
+
+#navbar {width:100%; margin-bottom:10px;}
+            #navbar ul {display:block; margin:10px 0; padding:0; list-style:none; line-height:18px;}
+            #navbar li {display:inline;}
+            #navbar a {float:left; display:block; margin-right:10px;}  
+            #navbar a:hover {text-decoration:underline;} 
+
+
+.navigation a {padding: 5px 0px; text-transform:lowercase;
+text-decoration: none;
+margin-left: 0px;
+display: block;
+
+  -webkit-transition: all 0.3s;  
+     -moz-transition: all 0.3s;  
+      -ms-transition: all 0.3s;  
+       -o-transition: all 0.3s;  
+          transition: all 0.3s;
+
+}
+.navigation a:hover {padding: 5px 10px;}
+
+#posts, #container { margin:0 auto; position:relative; }
+#posts {margin-top:1.5empx; margin-left:-10px;}
+.columns #posts {margin-left:auto;}
+.infinitescroll #bottomnav {display:none;}
+
+footer canvas {right:0; bottom:0; margin-bottom:10px; position:absolute; 
+-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+transform: scale(-1, 1);
+filter: FlipH;
+}
+.footercontent {margin-right:80px;}
+footer a, footer p {display:table-cell; padding-right:15px; vertical-align:top; height:55px;}
+
+    /* Posts, Articles */
+article {width:500px; padding:10px; font-size:13px;}
+
+article p {margin-bottom:1em; }
+article img {max-width:100%;}
+article ul, article ol {margin:1.3em 0;} article ul {list-style:none;} article .copy ul li:before{content:"\25B4"; padding-right:.4em; color:#52035c; }
+article .copy blockquote {margin:1.3em 0; padding-left:1.5em; border-left: solid 4px #dedddd; line-height:175%; color:#ffffff;}
+a.highres {text-align:right; display:block; font-weight:bold;}
+
+.photoset {margin-bottom:1em;}
+
+.tags {display:block;}
+    .post .chat {margin-left:0; list-style:none;} .post .chat .li:before {content:""; padding-right:0;}
+    .post .chat li {display:table-row; padding:2px 1px;}
+    .post .chat .label {display:table-cell; padding-right:7px; text-align:right; font-weight:bold;}
+    .post .chat .user_1  {border-bottom:1px solid #cf04bd;}
+    .post .chat .user_2  {border-bottom:1px solid #a600ff;}
+    
+    
+.answer .question { background: rgba(255,255,255,.8);-moz-border-radius: 8px;-webkit-border-radius: 8px;border-radius: 8px;margin: 0 0 15px 0;padding: 1em; position: relative; font-size:129%;}
+.post .answer .copy  { color: #ffffff;font-size: 16px;font-weight: bold;}
+.post .question .source {font-size:11px; text-align:right; display:block; vertical-align:middle;}
+.post .question .source img {vertical-align:middle;}
+.post .asker_container {margin:29px 0px 0px;}
+.post .asker_container img {margin: 0 10px -7px 0;}
+.post .asker_container a.asker {color: #ffffff;}
+
+   
+ol.notes {background: #eaeaea; -moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;font-size: 11px;color: #666;padding:10px ;list-style-type: none;font-size: 11px; margin:10px 0;}
+ol.notes a {color: #666;text-decoration: underline;}
+ol.notes li.note {padding: 5px;}
+ol.notes li.note img.avatar {vertical-align: -4px; margin-right: 10px; width: 16px;height: 16px;}
+ol.notes li.note span.action, ol.notes li.note .answer_content  {font-weight: normal;}
+ol.notes li.note blockquote { border-left: 2px solid #666; padding: 4px 10px; margin: 10px 0px 0px 25px;                                           }
+ol.notes li.note blockquote a { text-decoration: none;}
+
+
+/* Colors */
+body {background: #030303; color: #ffffff; border-top: 28px solid #52035c;}
+a {color: #3e8fa0;}
+
+.navigation a {color: #ffffff;}
+.navigation a:hover {color: #030303; background: #ffffff;}
+footer a, h1 a {
+-webkit-transition: all 0.3s ease-out;  
+   -moz-transition: all 0.3s ease-out;  
+    -ms-transition: all 0.3s ease-out;  
+     -o-transition: all 0.3s ease-out;  
+        transition: all 0.3s ease-out;
+text-shadow:0px 0px 0px rgba(0,0,0,.2);}
+footer a:hover { color:#ffffff; }
+    /* Post, Articles */ 
+        article {background: #030303;}
+    article h3 a:hover { color:#ffffff; text-decoration:none; }
+    article h3 a span { color:#52035c; font-weight:bold; } 
+    .quote .post {color:#52035c;}
+    
+    .post .question {  background: rgba(255,255,255,.8);
+                        -moz-border-radius: 8px;
+                        -webkit-border-radius: 8px;
+                        border-radius: 8px;
+                        margin: 0 0 15px 0;
+                        padding: 15px 20px;
+                        position: relative;
+                    }
+
+    .postmeta a { color:#ffffff; text-decoration:none; }
+        .postmeta .tags a {color: #3e8fa0; padding-bottom:1px;}
+
+    .postmeta .date {float:left;}
+    .postmeta .notes {float:right;}
+    
+    
+
+/* Fonts */
+body {font-size: 11px; font-weight:400; font-family: 'Signika','Droid Sans', arial, serif;text-rendering: optimizelegibility !important;}
+
+article a:hover {text-decoration:underline;}
+
+.postmeta {font-size:11px;}
+
+#navbar {font-size: 9px; display:block; 
+font-weight: bold;
+font-family:Helvetica, Arial, sans;
+text-align: right;
+text-transform: uppercase;}
+    /* Post, Articles */
+    article {font-size:13px; text-align: justify; margin-bottom:2em;}
+    article h3 {font-size:22px; font-family:'Vollkorn', arial, serif; }
+    
+    article strong, article b {font-weight:600;}
+    
+    .quote blockquote {color:#52035c; font-weight: 900;}  
+    .quote .short  { font-size: 33px; line-height: 35px; }
+    .quote .medium { font-size: 25px;line-height: 28px; }
+    .quote .long   { font-size: 18px; line-height: 22px; }
+
+    .postmeta {font-weight:300;}
+    
+
+footer small {
+   font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', 'Warnock Pro', serif;
+font-size: 1.1em;
+font-style: italic;
+font-weight: normal;
+line-height: 1em;
+text-transform: lowercase;
+}
+    
+
+/* Isotope */
+
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+       -o-transition-property:         top, left, opacity;
+          transition-property:         transform, opacity;
+}
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+          transition-duration: 0s;
+}
+
+
+
+
+
+ /* Infinite Scroll CSS*/
+
+#infscr-loading {
+
+-webkit-transition: all 0.3s ease-out;  
+   -moz-transition: all 0.3s ease-out;  
+    -ms-transition: all 0.3s ease-out;  
+     -o-transition: all 0.3s ease-out;  
+        transition: all 0.3s ease-out;
+         
+          position:absolute;
+width: 0;
+background: #52035c;
+background: transparent;
+color: #ffffff;
+text-align: center;
+bottom: 13px;
+right: 62px;
+margin-right: 4px;
+z-index: 100;
+font-size: 15px;
+font-weight: bold;
+-webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+        border-radius: 10px;
+}
+
+#infscr-loading div {position: absolute;
+width: 110px;
+left: -100px;
+top: 13px;}
+                   
+#infscr-loading img {  
+-webkit-transition: all 0.3s ease-out;  
+   -moz-transition: all 0.3s ease-out;  
+    -ms-transition: all 0.3s ease-out;  
+     -o-transition: all 0.3s ease-out;  
+        transition: all 0.3s ease-out;                
+
+  -webkit-animation: fullrotate 2s infinite linear; 
+     -moz-animation: fullrotate 2s infinite linear; 
+      -ms-animation: fullrotate 2s infinite linear; 
+}
+
+@-webkit-keyframes fullrotate {
+  0%   {   -webkit-transform: rotate(360deg);  }
+  100% {   -webkit-transform: rotate(000deg);  }
+}
+@-moz-keyframes myanim {
+  0%   {      -moz-transform: rotate(360deg); }
+  100% {      -moz-transform: rotate(000deg); }
+}
+@-ms-keyframes myanim {
+  0%   {       -ms-transform: rotate(360deg); }
+  100% {       -ms-transform: rotate(000deg); }
+  
+
+</style>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=futurescrewcrew" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=futurescrewcrew" /><script
+    defer
+    type="application/javascript"
+    id="bilmur"
+    data-provider="tumblr.com"
+    data-service="blognetwork"
+    data-customproperties='{"theme": "cmpndm"}'
+    nonce="GySjxnNsHkwZcK1SuAWOIo3OxQ"
+    src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202642"
+  ></script><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="future screw,trill scott heron,tsh,fsc,calvin harris" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="Tumblr" /><meta property="og:title" content="Future Screw Crew" /><meta property="og:url" content="https://futurescrewcrew.tumblr.com/?og=1" /><meta property="og:description" content="bringing them chopped n screwed vibes to a future near you" /><meta property="og:type" content="profile" /><meta property="og:image" content="https://64.media.tumblr.com/avatar_f51c3dcb0cf3_128.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=futurescrewcrew" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=futurescrewcrew" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="bringing them chopped n screwed vibes to a future near you" /><meta name="twitter:title" content="Future Screw Crew" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=futurescrewcrew&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=futurescrewcrew&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=futurescrewcrew&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/futurescrewcrew.tumblr.com\/page\/3","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110227490742\/trill-scott-heron-calvin-harris-ft-florence"},{"@type":"ListItem","position":2,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110227218927\/trill-scott-heron-bruno-mars-locked-out-heaven"},{"@type":"ListItem","position":3,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110227027797\/binders-full-of-women-mitt-romney-remix-the"},{"@type":"ListItem","position":4,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110226840067\/trill-scott-heron-bee-gees-stayin-alive-k"},{"@type":"ListItem","position":5,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110226560237\/trill-scott-heron-beat-it-mj-theme-dj-k-millz"},{"@type":"ListItem","position":6,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110125433027\/trill-scot-heron-bang-yo-side-prod-by-dj"},{"@type":"ListItem","position":7,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110125086942"},{"@type":"ListItem","position":8,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110124867312\/adventure-club-ft-loudpvck-trill-scott-heron"},{"@type":"ListItem","position":9,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110124656207\/trill-scott-heron-absolutely-feat-iamsu-jay"},{"@type":"ListItem","position":10,"url":"https:\/\/futurescrewcrew.tumblr.com\/post\/110124416942\/bird-peterson-ft-trill-scott-heron-98-and-back"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://www.tumblr.com/futurescrewcrew" /></head>
+
+<body class="index  columns infinitescroll ">
+
+<div id="container">
+<header class="isotope">
+    <h1 class="sitetitle"><a href="/">Future Screw Crew</a></h1>
+
+    <div id="navbar">
+        <ul>
+            <li><a href="/trill_scott_heron">Trill Scott Heron</a></li><li><a href="/el_blanco_nino">El Blanco Nino</a></li><li><a href="/satchmo">Satchmo</a></li><li><a href="/dj_sofaking">Sofaking</a></li><li><a href="/minimz">Minimz</a></li><li><a href="/china_alarm">China Alarm</a></li><li><a href="/hedawn">Hedawn</a></li>
+            <li><a href="/archive">Archive</a></li>
+             
+             
+            <li><a href="https://futurescrewcrew.tumblr.com/rss">RSS</a></li>
+        </ul>
+        <div id="search" class=""><form action="/search" method="get">
+            <input type="text" id="searchquery" name="q" placeholder="search" value=""><input type="submit" id="searchgo" value="&rarr;">
+        </form></div>
+    </div>
+</header>
+<div class="navigation isotope" id="topnav">
+ 
+         <a href="/page/4" class="oldernav right"><span class="navword">Older</span>&nbsp;&rarr;</a>
+         <a href="/page/2" class="newernav left">&larr;&nbsp;<span class="navword">Newer</span></a> 
+        <hr class="foot" />
+</div>
+
+
+
+  <div id="posts">  
+        <article id="post_110227490742" data-postid="110227490742" class="audio" rel="trill_scott_heron future_screw calvin_harris florence_welch grandtheft diplo tsh fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_njc4b6QdlM1svqju1o1_1423200212_cover.jpg" alt="Trill Scott Heron - Calvin Harris ft Florence Welch - Sweet Nothing (Diplo &amp; Grandtheft Rmx) TSH FS edit" style="margin-bottom: 10px" /> <span id="audio_player_110227490742"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110227490742" src="https://futurescrewcrew.tumblr.com/post/110227490742/audio_player_iframe/futurescrewcrew/tumblr_njc4b6QdlM1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_njc4b6QdlM1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Calvin Harris ft Florence Welch - Sweet Nothing (Diplo &amp; Grandtheft Rmx) TSH FS edit</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/calvin%20harris">calvin harris</a> <a href="https://futurescrewcrew.tumblr.com/tagged/florence%20welch">florence welch</a> <a href="https://futurescrewcrew.tumblr.com/tagged/grandtheft">grandtheft</a> <a href="https://futurescrewcrew.tumblr.com/tagged/diplo">diplo</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110227490742/trill-scott-heron-calvin-harris-ft-florence">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110227490742/trill-scott-heron-calvin-harris-ft-florence#notes">9 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110227218927" data-postid="110227218927" class="audio" rel="future_screw bruno_mars r3hab trill_scott_heron fsc tsh" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_njc44qx71D1svqju1o1_1423199978_cover.jpg" alt="Trill Scott Heron - Bruno Mars - Locked Out Heaven (R3hab RMX) TSH FS edit" style="margin-bottom: 10px" /> <span id="audio_player_110227218927"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110227218927" src="https://futurescrewcrew.tumblr.com/post/110227218927/audio_player_iframe/futurescrewcrew/tumblr_njc44qx71D1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_njc44qx71D1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Bruno Mars - Locked Out Heaven (R3hab RMX) TSH FS edit</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/Future%20Screw">Future Screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/bruno%20mars">bruno mars</a> <a href="https://futurescrewcrew.tumblr.com/tagged/r3hab">r3hab</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110227218927/trill-scott-heron-bruno-mars-locked-out-heaven">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110227218927/trill-scott-heron-bruno-mars-locked-out-heaven#notes">1 note</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110227027797" data-postid="110227027797" class="audio" rel="future_screw mitt_romney trill_scott_heron fsc tsh" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_njc408ASlS1svqju1o1_1423199816_cover.jpg" alt=" - Binders Full Of Women (Mitt Romney Remix) - The Melker Project  TSH FS edit" style="margin-bottom: 10px" /> <span id="audio_player_110227027797"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110227027797" src="https://futurescrewcrew.tumblr.com/post/110227027797/audio_player_iframe/futurescrewcrew/tumblr_njc408ASlS1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_njc408ASlS1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Binders Full Of Women (Mitt Romney Remix) - The Melker Project  TSH FS edit</strong>  </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/Future%20Screw">Future Screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/Mitt%20Romney">Mitt Romney</a> <a href="https://futurescrewcrew.tumblr.com/tagged/Trill%20Scott%20Heron">Trill Scott Heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110227027797/binders-full-of-women-mitt-romney-remix-the">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110227027797/binders-full-of-women-mitt-romney-remix-the#notes">4 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110226840067" data-postid="110226840067" class="audio" rel="future_screw bee_gees k_theory tsh fsc trill_scott_heron" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_njc3vujl6n1svqju1o1_1423199659_cover.jpg" alt="Trill Scott Heron - Bee Gees - Stayin Alive (K Theory RMX) TSH FS edit" style="margin-bottom: 10px" /> <span id="audio_player_110226840067"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110226840067" src="https://futurescrewcrew.tumblr.com/post/110226840067/audio_player_iframe/futurescrewcrew/tumblr_njc3vujl6n1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_njc3vujl6n1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Bee Gees - Stayin Alive (K Theory RMX) TSH FS edit</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/bee%20gees">bee gees</a> <a href="https://futurescrewcrew.tumblr.com/tagged/k%20theory">k theory</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110226840067/trill-scott-heron-bee-gees-stayin-alive-k">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110226840067/trill-scott-heron-bee-gees-stayin-alive-k#notes">5 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110226560237" data-postid="110226560237" class="audio" rel="future_screw micheal_jackson jersey_lean" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_njc3pcKrm11svqju1o1_1423199425_cover.jpg" alt="Trill Scott Heron - Beat IT (MJ Theme) Dj K Millz TSH jersey lean edit" style="margin-bottom: 10px" /> <span id="audio_player_110226560237"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110226560237" src="https://futurescrewcrew.tumblr.com/post/110226560237/audio_player_iframe/futurescrewcrew/tumblr_njc3pcKrm11svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_njc3pcKrm11svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Beat IT (MJ Theme) Dj K Millz TSH jersey lean edit</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/Micheal%20Jackson">Micheal Jackson</a> <a href="https://futurescrewcrew.tumblr.com/tagged/jersey%20lean">jersey lean</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110226560237/trill-scott-heron-beat-it-mj-theme-dj-k-millz">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110226560237/trill-scott-heron-beat-it-mj-theme-dj-k-millz#notes">1 note</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110125433027" data-postid="110125433027" class="audio" rel="jayhood trill_scott_heron future_screw tsh fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_nja34enCl21svqju1o1_1423105359_cover.jpg" alt="Trill Scot Heron - Bang Yo Side (Prod. By DJ Jayhood) @Bleszt &amp; @TokyoJapJunkie TSH FS edit" style="margin-bottom: 10px" /> <span id="audio_player_110125433027"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110125433027" src="https://futurescrewcrew.tumblr.com/post/110125433027/audio_player_iframe/futurescrewcrew/tumblr_nja34enCl21svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_nja34enCl21svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Bang Yo Side (Prod. By DJ Jayhood) @Bleszt &amp; @TokyoJapJunkie TSH FS edit</strong>  - Trill Scot Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/jayhood">jayhood</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110125433027/trill-scot-heron-bang-yo-side-prod-by-dj">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110125433027/trill-scot-heron-bang-yo-side-prod-by-dj#notes">1 note</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110125086942" data-postid="110125086942" class="audio" rel="alejandro0987 shine_on logic trill_scott_heron tsh future_screw fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_nja2xt5R0Y1svqju1o1_1423105121_cover.jpg" alt="Trill Scott Heron - Alejandro0987-Shine On . Logic TSH FS EDIT" style="margin-bottom: 10px" /> <span id="audio_player_110125086942"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110125086942" src="https://futurescrewcrew.tumblr.com/post/110125086942/audio_player_iframe/futurescrewcrew/tumblr_nja2xt5R0Y1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_nja2xt5R0Y1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays</div>  <p class="copy"><strong>Alejandro0987-Shine On . Logic TSH FS EDIT</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/alejandro0987">alejandro0987</a> <a href="https://futurescrewcrew.tumblr.com/tagged/shine%20on">shine on</a> <a href="https://futurescrewcrew.tumblr.com/tagged/logic">logic</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110125086942">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110125086942#notes">2 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110124867312" data-postid="110124867312" class="audio" rel="adventure_club loudpvck trill_scott_heron future_screw tsh fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_nja2tiAgao1svqju1o1_1423104967_cover.jpg" alt="Adventure Club ft. LOUDPVCK &amp; Trill Scott heron - Adv Club - Retro city (LOUDPVCK rmx) TSH FS edit " style="margin-bottom: 10px" /> <span id="audio_player_110124867312"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110124867312" src="https://futurescrewcrew.tumblr.com/post/110124867312/audio_player_iframe/futurescrewcrew/tumblr_nja2tiAgao1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_nja2tiAgao1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays<span class="download_external_audio"> &bull; <a href="https://a.tumblr.com/tumblr_nja2tiAgao1svqju1o1.mp3">Download</a></span></div>  <p class="copy"><strong>Adv Club - Retro city (LOUDPVCK rmx) TSH FS edit </strong>  - Adventure Club ft. LOUDPVCK &amp; Trill Scott heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/adventure%20club">adventure club</a> <a href="https://futurescrewcrew.tumblr.com/tagged/loudpvck">loudpvck</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110124867312/adventure-club-ft-loudpvck-trill-scott-heron">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110124867312/adventure-club-ft-loudpvck-trill-scott-heron#notes">2 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110124656207" data-postid="110124656207" class="audio" rel="trill_scott_heron future_screw tsh fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_nja2peLdgn1svqju1o1_1423104818_cover.jpg" alt="Trill Scott Heron - Absolutely feat IAMSU &amp; Jay Ant Donnis tsh fs edit sloweeerrrr" style="margin-bottom: 10px" /> <span id="audio_player_110124656207"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110124656207" src="https://futurescrewcrew.tumblr.com/post/110124656207/audio_player_iframe/futurescrewcrew/tumblr_nja2peLdgn1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_nja2peLdgn1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays<span class="download_external_audio"> &bull; <a href="https://a.tumblr.com/tumblr_nja2peLdgn1svqju1o1.mp3">Download</a></span></div>  <p class="copy"><strong>Absolutely feat IAMSU &amp; Jay Ant Donnis tsh fs edit sloweeerrrr</strong>  - Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110124656207/trill-scott-heron-absolutely-feat-iamsu-jay">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110124656207/trill-scott-heron-absolutely-feat-iamsu-jay#notes">1 note</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+ 
+        <article id="post_110124416942" data-postid="110124416942" class="audio" rel="bird_peterson drankenstein tsh trill_scott_heron future_screw fsc" > 
+            
+            
+                
+                 
+            
+              
+              
+            
+            	
+                <div class="post ">
+                    
+                    
+                    
+                    
+                    
+                    <img src="https://64.media.tumblr.com/tumblr_nja2kqWxUo1svqju1o1_1423104651_cover.jpg" alt="Bird Peterson ft. Trill Scott Heron - 98 and Back - Drankenstein 2 (TSH FS edit)" style="margin-bottom: 10px" /> <span id="audio_player_110124416942"><div class="audio_player"><iframe class="tumblr_audio_player tumblr_audio_player_110124416942" src="https://futurescrewcrew.tumblr.com/post/110124416942/audio_player_iframe/futurescrewcrew/tumblr_nja2kqWxUo1svqju1?audio_file=https%3A%2F%2Fa.tumblr.com%2Ftumblr_nja2kqWxUo1svqju1o1.mp3&color=white&simple=1" frameborder="0" allowtransparency="true" scrolling="no" width="207" height="27"></iframe></div></span> <div class="meta">0 plays<span class="download_external_audio"> &bull; <a href="https://a.tumblr.com/tumblr_nja2kqWxUo1svqju1o1.mp3">Download</a></span></div>  <p class="copy"><strong>98 and Back - Drankenstein 2 (TSH FS edit)</strong>  - Bird Peterson ft. Trill Scott Heron </p> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <hr class="foot" />
+                <div class="postmeta">
+                 <p class="tags"># <a href="https://futurescrewcrew.tumblr.com/tagged/bird%20peterson">bird peterson</a> <a href="https://futurescrewcrew.tumblr.com/tagged/drankenstein">drankenstein</a> <a href="https://futurescrewcrew.tumblr.com/tagged/tsh">tsh</a> <a href="https://futurescrewcrew.tumblr.com/tagged/trill%20scott%20heron">trill scott heron</a> <a href="https://futurescrewcrew.tumblr.com/tagged/future%20screw">future screw</a> <a href="https://futurescrewcrew.tumblr.com/tagged/fsc">fsc</a> </p>  
+                     <span class="date"> 
+                                    
+                                    
+                                        <a href="https://futurescrewcrew.tumblr.com/post/110124416942/bird-peterson-ft-trill-scott-heron-98-and-back">Posted 11 years ago</a>
+                                    
+</span>
+                     <span class="notes"><a href="https://futurescrewcrew.tumblr.com/post/110124416942/bird-peterson-ft-trill-scott-heron-98-and-back#notes">3 notes</a>  </span>
+                                
+                </div>
+                  
+                   
+
+        </article>
+</div> 
+    </div><!-- #posts -->
+<div class="navigation isotope" id="bottomnav">
+ 
+         <a href="/page/4" class="oldernav right"><span class="navword">Older</span>&nbsp;&rarr;</a>
+        <a href="/page/2" class="newernav left">&larr;&nbsp;<span class="navword">Newer</span></a> 
+        <hr class="foot" />
+</div>
+
+    <footer class="isotope"><div class="footercontent">
+<a href="http://dco1.com/">CMPNDM&nbsp;Theme&nbsp;<small>by</small>&nbsp;Danny</a><p class="description">bringing them chopped n screwed vibes to a future near you</p></div>
+    </footer>
+  </div> <!-- end of #container -->
+    
+ 
+
+  
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://futurescrewcrew.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/page/3?route=%2Fpage%2F%3Apage'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="GySjxnNsHkwZcK1SuAWOIo3OxQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1791982076&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2Z1dHVyZXNjcmV3Y3Jldy50dW1ibHIuY29tL3BhZ2UvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3BhZ2UvOnBhZ2UifQ==&U=KEOEALAIDP&K=3bb9c813d1c61eb385703238431ec0937e925196ffcad9dfb725773009a8cbff&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1791982076&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2Z1dHVyZXNjcmV3Y3Jldy50dW1ibHIuY29tL3BhZ2UvMyIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3BhZ2UvOnBhZ2UiLCJub3NjcmlwdCI6MX0=&U=KEOEALAIDP&K=965237d5270d41661597de6ce884ae22d60f00dd486a3786ad2673d0ee933db0&R="></noscript><script type="text/javascript" nonce="GySjxnNsHkwZcK1SuAWOIo3OxQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1791982076&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9mdXR1cmVzY3Jld2NyZXcudHVtYmxyLmNvbS9wYWdlLzMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wYWdlLzpwYWdlIiwicG9zdHMiOlt7InBvc3RpZCI6IjExMDIyNzQ5MDc0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNzIxODkyNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNzAyNzc5NyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNjg0MDA2NyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNjU2MDIzNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNTQzMzAyNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNTA4Njk0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDg2NzMxMiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDY1NjIwNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDQxNjk0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfV19&U=EECIDABJIB&K=1a70a1ccd2d19a87cb12a2c926a408f49bc5e04aa42edb8f9bdfbf8cd3860a8e&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1791982076&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9mdXR1cmVzY3Jld2NyZXcudHVtYmxyLmNvbS9wYWdlLzMiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wYWdlLzpwYWdlIiwicG9zdHMiOlt7InBvc3RpZCI6IjExMDIyNzQ5MDc0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNzIxODkyNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNzAyNzc5NyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNjg0MDA2NyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDIyNjU2MDIzNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNTQzMzAyNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNTA4Njk0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDg2NzMxMiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDY1NjIwNyIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMDEyNDQxNjk0MiIsImJsb2dpZCI6MTE0NjU2Njc3LCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=EECIDABJIB&K=17acf55c241e759c39ee152dac7ccfd8a66fb989847bf335ac808c5aacf42e73&R="></noscript><iframe
+    id="blue-space-api-calls-iframe"
+    src="https://www.tumblr.com/dashboard/iframe/monetization?tumblelog=futurescrewcrew&src=https%3A%2F%2Ffuturescrewcrew.tumblr.com%2Fpage%2F3"
+    style="display: none;"
+    sandbox="allow-scripts allow-same-origin"></iframe><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous" nonce="GySjxnNsHkwZcK1SuAWOIo3OxQ"></script><!--
+Open GAM console on the page:
+1. Open browser JS console
+2. Run `googletag.openConsole()`
+3. GAM debug UI should appear and tell some more info on the ad itself and its fulfillment status
+--><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;Monetization&quot;:{&quot;client_side_waterfall&quot;:false,&quot;no_demand_reason&quot;:null},&quot;TumblelogIframe&quot;:{&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=1040b6307f5bebeae61ee9305c900ee9&quot;,&quot;tumblelogName&quot;:&quot;futurescrewcrew&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Future Screw Crew&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_f51c3dcb0cf3_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_f51c3dcb0cf3_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/futurescrewcrew.tumblr.com&quot;,&quot;hasCustomDomain&quot;:false,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/750922c15b430b8df5ea8073542ea25f\/qs1ounh\/DNbnjl63s\/tumblr_static_tumblr_static_4nmeyh92jvs4cskk8cgc8k8gw_focused_v3.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#000000&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#8F6DA5&quot;,&quot;brag&quot;:true,&quot;canShowAd&quot;:false,&quot;isPremium&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:3,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/futurescrewcrew.tumblr.com\/page\/3&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;openInPeeprUrl&quot;:&quot;https:\/\/www.tumblr.com\/futurescrewcrew&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;showRemoveAdsCta&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:10799,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;},&quot;CommunityLabels&quot;:{&quot;has_community_label&quot;:false,&quot;is_single&quot;:false,&quot;redirect_target&quot;:null}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJlbmFibGVfanNfZXJyb3JzX2xvZyI6dHJ1ZSwibG9nX2xhZHkiOnRydWUsInJlZHBvcF9wb3N0X2Zvcm1fbW9iaWxlX2NyZWF0ZSI6dHJ1ZSwibGVnYWN5X3Bvc3RfZm9ybV9idXR0b25zX2xpbmtfdG9fcmVkcG9wIjp0cnVlLCJzaG93X3RzcF9jbGlja190aHJvdWdoX3RvZ2dsZSI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3IiOnRydWUsImNvbnZlcnNhdGlvbmFsX25vdGlmaWNhdGlvbnMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWUsImNvbW11bml0eV9sYWJlbHMiOnRydWUsIm1vbmV0aXphdGlvbiI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1791982076000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won&#039;t receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=1040b6307f5bebeae61ee9305c900ee9"></script></body>
+</html>
