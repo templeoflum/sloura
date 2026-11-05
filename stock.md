@@ -53,7 +53,7 @@ Hedawn did not give a date for any post or say which artwork each one shows, so 
 
 ## In the folder
 
-Board task T-0149. Census of `/Users/donovan/work/sloura` taken 2026-10-12T06:03Z by listing the folder, hidden files included. Nothing was changed. Besides this page, the only thing here is what T-0148 saved. No music, artwork or writing is here. Sizes are in bytes. A folder's size is the total of the files inside it; its own directory entry is in brackets.
+Board task T-0149. Census of `/Users/donovan/work/sound/sloura` taken 2026-10-12T06:03Z by listing the folder, hidden files included. Nothing was changed. Besides this page, the only thing here is what T-0148 saved. No music, artwork or writing is here. Sizes are in bytes. A folder's size is the total of the files inside it; its own directory entry is in brackets.
 
 | Name | Type | Size |
 |---|---|---|
